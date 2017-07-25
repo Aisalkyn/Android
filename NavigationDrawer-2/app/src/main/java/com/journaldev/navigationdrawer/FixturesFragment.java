@@ -6,9 +6,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-/**
- * Created by anupamchugh on 10/12/15.
- */
+
 public class FixturesFragment extends Fragment {
 
     public FixturesFragment() {
